@@ -12,6 +12,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [2418-sort-the-people](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +64,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [2418-sort-the-people](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
