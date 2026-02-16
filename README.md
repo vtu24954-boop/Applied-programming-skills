@@ -13,6 +13,7 @@
 | [0704-binary-search](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [1314-matrix-block-sum](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/2418-sort-the-people) |
@@ -37,6 +38,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
