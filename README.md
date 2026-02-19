@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
@@ -53,6 +54,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0890-find-and-replace-pattern](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [2418-sort-the-people](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -80,6 +82,7 @@
 | [0008-string-to-integer-atoi](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0890-find-and-replace-pattern](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Queue
