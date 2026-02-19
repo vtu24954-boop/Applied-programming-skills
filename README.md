@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
