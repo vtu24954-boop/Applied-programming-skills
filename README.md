@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
@@ -119,6 +120,7 @@
 | [0155-min-stack](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -159,6 +161,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
 ## Monotonic Queue
 |  |
