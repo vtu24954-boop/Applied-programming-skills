@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
