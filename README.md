@@ -17,6 +17,7 @@
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [0946-validate-stack-sequences](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
@@ -123,6 +124,7 @@
 | [0735-asteroid-collision](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
@@ -163,6 +165,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Queue
 |  |
 | ------- |
