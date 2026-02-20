@@ -83,6 +83,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
@@ -113,6 +114,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu24954-boop/Applied-programming-skills/tree/master/0739-daily-temperatures) |
